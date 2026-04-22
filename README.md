@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alan, an <a href="https://linkedin.com/in/AlanWalkerII">IT Professional</a>!</h1>
+<h1>Hi, I'm Alan, an <a href=www.linkedin.com/in/alan-walker-ii-5a92aa230>IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
