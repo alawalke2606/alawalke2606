@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/AlanWalkerII
+[linkedin]: www.linkedin.com/in/alan-walker-ii-5a92aa230
