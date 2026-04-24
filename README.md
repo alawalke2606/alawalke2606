@@ -13,5 +13,5 @@
 <h2>🤳Connect with me:</h2>
 
 
-[![LinkedIn](https://shields.io)](https://linkedin.com/alanwalkerii)
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/alanwalkerii)
 
