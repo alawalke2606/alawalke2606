@@ -16,4 +16,5 @@
 [<img align="left" alt="Alan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[LinkedIn](www.linkedin.com/in/alanwalkerii)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+
