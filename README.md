@@ -18,3 +18,4 @@
 
 
 [linkedin]: www.linkedin.com/in/alanwalkerii
+[LinkedIn](www.linkedin.com/in/alanwalkerii)
