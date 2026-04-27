@@ -3,9 +3,10 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
+  - [How to Create VMs in Azure](https://github.com/alawalke2606/create-vms)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/alawalke2606/configure-ad)
   - [Group Policy and Managing Accounts](https://github.com/alawalke2606/Group-Policy-and-Managing-Accounts)
-  - [How to Create VMs in Azure](https://github.com/alawalke2606/create-vms)
+
  
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/alawalke2606/osticket-prereqs)
