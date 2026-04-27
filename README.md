@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/alawalke2606/configure-ad)
   - [Group Policy and Managing Accounts](https://github.com/alawalke2606/Group-Policy-and-Managing-Accounts)
+  - [How to create VMs in Azure](url)
 
 <h2>🤳Connect with me:</h2>
 
